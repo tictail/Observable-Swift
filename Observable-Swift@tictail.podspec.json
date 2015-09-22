@@ -1,19 +1,19 @@
 {
-    "name"              : "Observable-Swift",
+    "name"              : "Observable-Swift@tictail",
     "module_name"       : "Observable",
-    "version"           : "0.4.2",
+    "version"           : "0.4.3",
     "license"           : "MIT",
     "platforms"         : {
         "ios"           : "8.0",
         "osx"           : "10.9"
     },
-    "homepage"          : "https://github.com/slazyk/Observable-Swift",
+    "homepage"          : "https://github.com/tictail/Observable-Swift",
     "authors"           : { "Leszek Slazynski" : "slazyk@gmail.com" },
     "social_media_url"  : "https://twitter.com/slazyk",
     "summary"           : "KVO for Swift - Value Observing and Events",
     "source"            : {
-        "git"           : "https://github.com/slazyk/Observable-Swift.git",
-        "tag"           : "v0.4.2"
+        "git"           : "https://github.com/tictail/Observable-Swift.git",
+        "tag"           : "v0.4.3"
     },
     "source_files"      : "Observable-Swift/*.swift"
 }
