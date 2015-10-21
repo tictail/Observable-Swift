@@ -1,7 +1,7 @@
 {
-    "name"              : "Observable-Swift@tictail",
+    "name"              : "Observable-Swift",
     "module_name"       : "Observable",
-    "version"           : "0.4.3",
+    "version"           : "0.4.4",
     "license"           : "MIT",
     "platforms"         : {
         "ios"           : "8.0",
