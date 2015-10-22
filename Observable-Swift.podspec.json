@@ -1,7 +1,7 @@
 {
     "name"              : "Observable-Swift",
     "module_name"       : "Observable",
-    "version"           : "0.4.4-tictail",
+    "version"           : "0.4.5",
     "license"           : "MIT",
     "platforms"         : {
         "ios"           : "8.0",
@@ -13,7 +13,7 @@
     "summary"           : "KVO for Swift - Value Observing and Events",
     "source"            : {
         "git"           : "https://github.com/tictail/Observable-Swift.git",
-        "tag"           : "0.4.4-tictail"
+        "tag"           : "0.4.5"
     },
     "source_files"      : "Observable-Swift/*.swift"
 }
